@@ -2,7 +2,7 @@
 
 
 An advanced AI-powered application to detect **Fake vs Real News** using **Machine Learning (Logistic Regression)** and **TF-IDF Vectorization**.  
-Built with ❤️ using **Python** and **Streamlit**, this project provides a clean, interactive interface to classify news articles with high accuracy.  
+Built with  using **Python** and **Streamlit**, this project provides a clean, interactive interface to classify news articles with high accuracy.  
 
 ---
 
